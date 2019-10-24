@@ -2,7 +2,7 @@
 ## Competition Outcome
 
 This repository was forked from my teammate (Hui Kang), who had managed this.
-You can find his Github account at @tonghuikang
+You can find his Github account at https://github.com/tonghuikang 
 
 We won 3rd place in Singapore, with a score of 4405.
 
